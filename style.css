@@ -1,0 +1,178 @@
+html,Body{
+  display: block;
+  margin: 20px;
+  font-family: 'Nunito', sans-serif;
+  background-color: black;
+}
+
+.Letters {
+  text-align: center;
+  text-orientation: upright;
+  writing-mode: vertical-rl;
+  font-weight: 400;
+  font-size:8em;
+  line-height: 1em;
+  letter-spacing: .1px;
+}
+
+.W {
+  color:white;
+  z-index: 7;
+  position: absolute;
+  top: 1px;
+  left: 500px;
+
+}
+.PL{
+  color: rgb(199, 36, 177);
+  z-index: 6;
+  position: absolute;
+  top:1px;
+  left: 510px;
+  opacity: .7;
+}
+.PR{
+  color: rgb(199, 36, 177);
+  z-index: 5;
+  position: absolute;
+  top:1px;
+  left: 490px;
+  opacity: .7;
+
+}
+.BL{
+  color: rgb(21, 224, 238);
+  left: 40px;
+  z-index: 4;
+  position: absolute;
+  top:1px;
+  left: 520px;
+  opacity: .7;
+}
+.BR{
+  color: rgb(21, 224, 238);
+  z-index: 3;
+  position: absolute;
+  top:1px;
+  left: 480px;
+  opacity: .7;
+}
+.YL{
+  color: rgb(250, 237, 39);
+  z-index: 2;
+  position: absolute;
+  top:1px;
+  left: 530px;
+  opacity: .7;
+}
+.YR{
+  color: rgb(250, 237, 39);
+  z-index: 1;
+  position: absolute;
+  top:1px;
+  left: 470px;
+  opacity: .7;
+}
+
+p8{
+  text-align: left;
+  color:white;
+  font-weight: 200;
+  font-size: 1em;
+}
+
+.Content h1, .Content h2, .Content h3, {
+  font-size: 1.5em;
+  text-align: left;
+}
+
+.Content h1 {
+  letter-spacing: .2em;
+}
+.Content h2 {
+  letter-spacing: .64em;
+}
+.Content h3 {
+  letter-spacing: .88em;
+}
+
+h1,h2,h3,h4 {
+color:white;
+font-weight: 400;
+}
+
+h4{
+  display: block;
+  margin-right: 20em;
+  font-size: 1em;
+  text-align: right;
+}
+
+.Content {
+  display: block;
+  text-align: inherit;
+  position: relative;
+  margin-left: 20em;
+  margin-right: 20em;
+  border-bottom: 5px solid white;
+  border-top: 5px solid white;
+}
+
+.W2{
+  color:white;
+  z-index: 7;
+  position: absolute;
+  top: 770px;
+  left: 500px;
+
+}
+.PL2{
+  color: rgb(199, 36, 177);
+  z-index: 6;
+  position: absolute;
+  top:770px;
+  left: 510px;
+  opacity: .7;
+}
+.PR2{
+  color: rgb(199, 36, 177);
+  z-index: 5;
+  position: absolute;
+  top:770px;
+  left: 490px;
+  opacity: .7;
+
+}
+.BL2{
+  color: rgb(21, 224, 238);
+  left: 40px;
+  z-index: 4;
+  position: absolute;
+  top:770px;
+  left: 520px;
+  opacity: .7;
+}
+.BR2{
+  color: rgb(21, 224, 238);
+  z-index: 3;
+  position: absolute;
+  top:770px;
+  left: 480px;
+  opacity: .7;
+}
+.YL2{
+  color: rgb(250, 237, 39);
+  z-index: 2;
+  position: absolute;
+  top:770px;
+  left: 530px;
+  opacity: .7;
+}
+.YR2{
+  color: rgb(250, 237, 39);
+  z-index: 1;
+  position: absolute;
+  top:770px;
+  left: 470px;
+  opacity: .7;
+}
